@@ -1,3 +1,4 @@
+![crypto](https://user-images.githubusercontent.com/39573363/117868278-1283b680-b2a2-11eb-97b5-40c20458a3e1.PNG)
 In this React project I used an API from https://www.coingecko.com/en/api#explore-api to get the data of crypto currencies.
 
 --------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-In this React project I used an API from https://www.coingecko.com/en/api#explore-api to get the data of crypto currencies. 
+In this React project I used an API from https://www.coingecko.com/en/api#explore-api to get the data of crypto currencies, via useState, useEffect. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 

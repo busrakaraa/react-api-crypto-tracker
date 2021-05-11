@@ -1,3 +1,7 @@
+In this React project I used an API from https://www.coingecko.com/en/api#explore-api to get the data of crypto currencies. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
